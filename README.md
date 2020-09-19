@@ -1,5 +1,9 @@
 # DojoVue
-git 
+
+## Guia del DOJO
+
+https://github.com/maurza/GuiaDojoVue
+ 
 ## Project setup
 ```
 npm install
